@@ -1,0 +1,84 @@
+body{
+	font-size: 24px;
+	line-height: 36px;
+}
+.mb-1{
+	margin-bottom: 8px;
+}
+.mb-2{
+	margin-bottom: 16px;
+}
+.mb-3{
+	margin-bottom: 24px;
+}
+.mb-4{
+	margin-bottom: 32px;
+}
+.pt-3{
+	padding-top: 24px;
+}
+.mb-5{
+	margin-bottom: 40px;
+}
+.mb-6{
+	margin-bottom: 48px;
+}
+.mb-9{
+	margin-bottom: 72px;
+}
+#username{
+	font-size: 80px;
+	line-height: 94px;
+	padding-bottom: 16px;
+	border-bottom: 2px solid black;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+.subTitle{
+	font-size: 32px;
+	line-height: 45px;
+	border-bottom: 1px solid black;
+	padding-bottom: 8px;
+}
+.subTitle-white{
+	text-align: center;
+	border-bottom: 1px solid white;
+}
+.subTitle span{
+	color: red;
+	padding-left: 16px;
+	font-size: 24px;
+}
+.subTitle-white span{
+	color: white;
+}
+.darkBlue{
+	background: #415165;
+	color: white;
+}
+.skill{
+	width: 996px;
+	margin: 0 auto;
+	padding-bottom: 16px;
+}
+.skillContent{
+	width: 230px;
+	margin: 0 auto;
+	padding-left: 24px;
+	border-left: 1px solid white;
+}
+.skillContent li{
+	margin-bottom: 20px;
+}
+.footer{
+	padding-top: 24px;
+	padding-bottom: 36px;
+}
+.contactMethod{
+	text-align: center;
+}
+li{
+	list-style-type: none;
+}
